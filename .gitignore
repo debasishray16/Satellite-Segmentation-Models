@@ -1,0 +1,12 @@
+data/landcover_ai/images/*.tif
+data/landcover_ai/masks/*.tif
+
+data/landcover_ai/train_images/train/*.tif
+data/landcover_ai/val_images/val/*.tif
+
+data/landcover_ai/train_masks/train/*.tif
+data/landcover_ai/val_masks/val/*.tif
+
+data/landcover_ai/val_images/val/*.tif
+
+data/models/*.pth
