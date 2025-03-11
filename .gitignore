@@ -10,3 +10,4 @@ data/landcover_ai/val_masks/val/*.tif
 data/landcover_ai/val_images/val/*.tif
 
 data/models/*.pth
+ipynb files/*.pth
